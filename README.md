@@ -4,7 +4,7 @@ First remove the predeploy and deploy in the dependencies section of 'package.js
 Run this command to install the required dependencies. This will make a forlder called node modules and thus I think you are good to go.
 
 # Enjoy the battle pass
-Battle pass is out and if you wnat contact Gaben or pay for IT!!
+Battle pass is out and if you want contact Gaben or pay for IT!!
 
 ## Available Scripts
 
